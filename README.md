@@ -24,8 +24,6 @@ Here's a little ***summary*** of what I did for the lab!
 
 And that ***SUMS*** it all up!
 
-_Here's a link to my website_  **=>** [Web Programming](archisa-kar.github.io)
-
 **SEE YOU!!**
 
 ![BTS bye](https://media.giphy.com/media/j25R0OK14j3LWdMFN5/giphy.gif)
